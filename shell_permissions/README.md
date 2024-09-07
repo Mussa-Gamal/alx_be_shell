@@ -19,3 +19,7 @@ The script in the /shell_permissions/5-execute file adds execute permission to t
 ## 6-multiple_permissions script
 
 The script in the /shell_permissions/6-multiple_permissions file adds execute permission to the owner of the file hello.
+
+## 9-John_Doe script
+
+The script in the /shell_permissions/9-John_Doe file sets the mode of the file hello to -rwxr-x-wx
